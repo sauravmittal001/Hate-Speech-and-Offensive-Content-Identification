@@ -1,4 +1,5 @@
 # Hate Speech and Offensive Content Identification
 
-Project Checkpoint 1: Statement and preliminary description
-https://docs.google.com/document/d/1stlEgA-pJgHOVa_6pERSgSH5aMf1-2yhbtJd6KdFmBQ/edit?usp=sharing
+Project Checkpoint 2: https://github.com/sauravmittal001/Hate-Speech-and-Offensive-Content-Identification/blob/main/Checkpoint%202%20col764.pdf
+
+Paper for Reference: http://ceur-ws.org/Vol-2517/T3-23.pdf
